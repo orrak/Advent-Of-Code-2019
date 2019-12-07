@@ -1,6 +1,6 @@
 import numpy as np
 
-# range from input
+# puzzle input
 start = 264793
 stop = 803935
 
